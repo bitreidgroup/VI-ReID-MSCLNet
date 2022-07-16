@@ -1,4 +1,4 @@
-# MSCLNet for Visible-Infrared Person ReID (ECCV 2022)
+# MSCLNet for VI-ReID (ECCV 2022)
 
 Modality Synergy Complement Learning with Cascaded Aggregation for Visible-Infrared Person Re-Identification
 
