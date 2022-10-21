@@ -2,13 +2,14 @@
 
 Modality Synergy Complement Learning with Cascaded Aggregation for Visible-Infrared Person Re-Identification
 
-<img src="asset/pipeline.png">
 <p align="left">
   <br>
     <a href='https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740450.pdf'>
       <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='Paper PDF'>
     </a>
 </p>
+<img src="asset/pipeline.png">
+
 ## Getting Started
 * Clone this repo: 
 
