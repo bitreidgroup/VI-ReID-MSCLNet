@@ -61,11 +61,13 @@ bash scripts/reproduce.sh
 If this repository helps your research, please cite :
 
 ```
-@inproceedings{zhang2022mscl,
+@inproceedings{zhang2022modality,
   title={Modality Synergy Complement Learning with Cascaded Aggregation for Visible-Infrared Person Re-Identification},
   author={Zhang, Yiyuan and Zhao, Sanyuan and Kang, Yuhao and Shen, Jianbing},
-  booktitle={European Conference on Computer Vision (ECCV)},
+  booktitle={European Conference on Computer Vision},
+  pages={462--479},
   year={2022},
+  organization={Springer}
 }
 ```
 
